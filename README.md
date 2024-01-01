@@ -28,6 +28,10 @@ portfolios as in Kaiser and Welters (2019) and Asness, Pedersen, and Moskowitz
 are included, but must also be run one by one, as each new regression will over
 -write the previous regression.
 
-I have provided all data used which is not associated with an SQL query, 
-sections of the code will have to be rewitten depending on which platform
+I am unsure if I am permitted to share WRDS, CRSP, or Sustainalytics data on a 
+public GitHub repository, so erring on the side of caution I have not posted it
+here. However, a detailed decription of the data collection and cleaning is 
+provided both here and in the main body of the thesis.
+
+Sections of the code will have to be rewitten depending on which platform
 the reader is on, and to change directories and paths used to save/load data.
